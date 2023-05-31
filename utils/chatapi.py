@@ -1,6 +1,7 @@
 import openai
+import os
 
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 max_token = 2000
 
 debug_mode = True
