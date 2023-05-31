@@ -42,8 +42,14 @@ class HostRecord(RequestParam):
     products: str
 
 
+class HostUpdate(RequestParam):
+    env_desc: str
+    products: str
+
+
 class PayParam(RequestParam):
     purchase: list
+
 
 class NotifyParam(BaseModel):
     id: str

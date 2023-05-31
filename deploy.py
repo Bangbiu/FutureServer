@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+from typing import Union
+
 import qrcode
 
 sys.path.append('')
@@ -71,7 +73,7 @@ def chat(args: ChatParam):
     for msg in args.history:
         hisize += len(str(msg["content"]).encode())
 
-    if (hisize > chatapi.max_token):
+    if hisize > chatapi.max_token:
         Log.raiseError(EH.USER_EXCEED_MAX_TOKEN, args.openid)
 
     result = chatapi.chat(args.history)
@@ -102,8 +104,7 @@ def login_partner(args: LoginParam):
 
 @app.post("/get_partner_info")
 def get_user_info(args: SessionParam):
-    ptnr = Partner(openid=args.openid)
-    return ptnr.fetch()
+    return Partner(openid=args.openid).fetch()
 
 
 @app.post("/get_template")
@@ -129,7 +130,7 @@ def reg_user(args: UserRecord):
 
 
 @app.post("/reg_host")
-def reg_host(args: HostRecord):
+def reg_host(args: Union[HostRecord, HostUpdate]):
     openid = args.openid
     del args.openid
     return User(openid=openid).host.register(args.__dict__)
