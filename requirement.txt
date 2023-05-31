@@ -1,0 +1,7 @@
+fastapi
+openai
+uvicorn
+pycryptodome
+sqlalchemy
+cryptography
+qrcode

@@ -1,0 +1,994 @@
+<-- 2023-05-11 08:52:33 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 08:52:46 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了红糖糍粑,烧椒皮蛋,传奇香辣烤鱼,烤黑鱼，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-11 08:52:58 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去了个很神奇的餐馆，点了红糖糍粑，烧椒皮蛋，传奇香辣烤鱼和烤黑鱼。首先要说糍粑，超级软Q，红糖味道也浓郁，细节没话说。烧椒皮蛋也是相当的好吃，皮香脆嫩，椒味刚好，口感爽口。但绝对想毒瘤一点没办法不提香辣烤鱼，它不仅仅是辣，它还有本事自带了鲜味，经过那么久的烤制，鱼肉依然鲜嫩，想卡路里十级想懂味觉的小伙伴们，可以去试试。黑鱼也不错，烤到了完美的酥脆，吃起来爽脆。总之，如果你想要一嗨到底的餐饮体验，那么这个地方一定要去试一试！
+<-- 2023-05-11 08:53:25 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了红糖糍粑,烧椒皮蛋,传奇香辣烤鱼,烤黑鱼，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 08:53:39 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去吃烤鱼啦！点了红糖糍粑，吃到一口就爱上了！软糯又甜，好吃到挂在嘴边的啊！
+
+烧椒皮蛋也十分棒！鸭蛋皮薄馅儿足， 加了烧椒又香又辣，这味道太特别了！
+
+然而最出彩的还是传奇香辣烤鱼！那个调料真是厉害，香味调和幸福感满满！辣得瑟瑟发抖但还是停不下来！烤出的鱼肉香滑入口，正好与那嗜辣的口感配合在一起，实在太好吃啦！
+
+最后还点了烤黑鱼。BBQ过了半生不熟，内里还是湿嫩的，很好吃！再配上店家的调料就更好了，口感颇多层次呢！
+
+总之，这间餐馆的妙味非常棒!如果你也来尝试一下，一定要点红糖糍粑，烧椒皮蛋和传奇香辣烤鱼啊!吃完之后连连夸赞了好几次！绝对是一个非常不错的用餐体验啊！
+<-- 2023-05-11 08:54:56 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 08:55:15 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<!-- 2023-05-11 08:55:16 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 08:55:35 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你是一名专业的小红书博主，擅长于面向女性用户撰写产品介绍。现在介绍的产品是一款名为飞凡的电竞耳机，特点是采用主动降噪功能，性价比高。请结合节假日大促销的背景，给出一条具有冲击力的的500字的介绍文案，要求图文并茂。
+<-- 2023-05-11 08:56:05 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+标题：抢购飞凡电竞耳机，享受游戏乐趣，降噪神器冬日必备！
+
+欢度节日，游戏乐趣倍增！每次战斗都想把自己全身心投入进去，但是周围总有各种噪音干扰，会让你的注意力跟进度都受到影响。不过，现在有了飞凡电竞耳机这个降噪神器，你的游戏体验就会瞬间变得积极高涨！不管是周末还是节假日，别无他求，就此一款电竞耳机就足矣！快来一起看看，它有哪些特点可以激发你的购买欲望！
+
+首先，飞凡电竞耳机的外观设计非常时尚。它几乎是以全黑为主色调，加上浅灰色的细节装饰，简约而不单调。戴上它一定能让你在朋友圈里成为最耀眼的明星。
+
+其次，这款电竞耳机采用了最新的降噪技术，提供主动降噪和全方位的环绕声效，即使在公交车或者咖啡厅也能够将周围噪音消除，让你全神贯注地体验游戏乐趣。更加神奇的是，在大声聊天或者突发爆炸音效的时候，已经不会引起过强或者不适感。
+
+再次，这款耳机的音质表现非常优异。其配备了音质全分析芯片，注重科技和艺术之间的平衡。大家都知道，要享受好的游戏体验，不仅需要健康的心态，还需要一个清晰而舒适的听覺感受。飞凡电竞耳机的声音完美贴合了这些标准。
+
+最后，我们再来谈谈这款电竞耳机的价格和促销活动。现在正是年末台庆大促的时候，你可以获得额外的折扣和优惠，在这个节日里，你可以买到最划算的一款电竞耳机。再加上一年的质保，还有客服售后服务，你简直不用担心任何问题会发生。
+
+总之，飞凡电竞耳机是一款你必须拥有的产品！放下一切，快来买一款吧！它既具有实用性，又兼具时尚性，让你在游戏中尽情释放自我。所以，不管你是打比赛还是消磨时光，这款电竞耳机都是你最好的伙伴。 买之前不敢使劲，用过之后再也无法放下！
+<-- 2023-05-11 09:05:45 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<!-- 2023-05-11 09:05:54 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 09:06:45 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<!-- 2023-05-11 09:06:47 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 09:08:58 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<!-- 2023-05-11 09:09:02 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 09:09:19 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你是一名专业的公司职员，职位是销售员，需要写一份工作日报，你的工作内容是联系客户，整理订单，业绩总结。请写一份300字的今日工作报告，要有工作内容、总结和下一阶段工作计划，用列表形式展现。
+<-- 2023-05-11 09:09:34 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今日工作报告：
+
+工作内容：
+
+1. 联系客户
+
+- 今天共拨打了50个客户电话，成功联系36个客户，进行了产品推销和咨询服务
+- 与10个客户确认订单，确认交付时间和付款方式
+- 跟进2个客户的退款申请，并向相关部门进行反馈
+
+2. 整理订单
+
+- 整理当天的订单信息，录入进公司的订单管理系统
+- 跟进并解决1个订单出现的问题，确保订单正常交付
+
+3. 业绩总结
+
+- 今天的销售业绩达到了公司要求的目标，共有10个订单成功交付，订单金额达到10000元
+
+总结：
+
+今天的工作任务较多，但都顺利完成。通过与客户的有效沟通和推销，获得了较好的业绩成果，这是一个非常有收获的工作日。
+
+下一阶段工作计划：
+
+1. 基于今天的工作成果，计划在明天和后续的工作中继续与客户积极沟通，提高服务质量，拓展新客户来源。
+2. 优化订单管理系统的功能，使其更加便于员工操作和管理，提高订单处理效率和准确度。
+3. 针对即将到来的重要促销活动，积极策划和准备相关的促销方案，争取在增加销售的同时提升客户满意度。
+<-- 2023-05-11 09:09:53 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,经典麻辣烤鱼,绝味茄子,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 09:09:59 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去吃了一家香辣烤鱼店！我点了三个菜和一份柠檬鸡爪。烤黑鱼肉质鲜嫩口感好，经典麻辣烤鱼太辣了但是我还是觉得好吃，绝味茄子也很好吃脆皮软心，大爱！柠檬鸡爪有点酸甜美味~总的来说，这家店菜品品种多，味道也是相当的好，值得一试！
+<-- 2023-05-11 09:11:20 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 09:11:46 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-11 09:11:53 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-11 09:11:56 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了绝味茄子,红糖糍粑,羊肉串，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 09:12:03 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃了家烧烤店，绝味茄子不错，吃的我直啊，每一口都爽到不行！红糖糍粑非常劲道，外酥里嫩，尤其是炖的那一碗，入口即化，简直是甜蜜的感觉。烤羊肉串也很赞，肉质鲜美，不柴不老，加了调料更是鲜香味美，啥也不用说，一点都不输大牌子。店里装修也很别致，环境不错，服务态度也不错，总之一切都挺不错，下次还得再来。
+<-- 2023-05-11 09:12:10 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了绝味茄子,红糖糍粑,羊肉串，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 09:12:16 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去吃了一家很棒的烤鱼店，点了几个菜，其中绝味茄子真的是太好吃了，好像入口就化了，还有那个红糖糍粑，超级软糯，甜而不腻！最爱的是羊肉串，一口咬下去一股香气直冲心头，还有那种超嫩的口感，真是一级棒啊！店里环境也非常好，服务态度也特别的好，不愧是一家名匠。真希望下次有机会再去尝一尝。
+<-- 2023-05-11 09:12:32 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<!-- 2023-05-11 09:12:40 User Custom Data Non-exists --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+未找到用户自定义文件
+<-- 2023-05-11 09:12:49 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫沙县小吃的餐馆用餐，你点了炒饭,炒面,汤,配菜，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 09:12:56 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+今天去吃沙县小吃，点了炒饭、炒面、汤和配菜。那个炒饭真是饭中之霸！大块的火腿、鲜虾和鸡蛋混合在一起，香味扑鼻，份量超足。炒面的汤汁非常鲜美，有点麻辣的口感，吃完之后让人胃口大开。配菜也很不错，食材新鲜，味道鲜美，加上合理的配搭，让整顿饭菜更加美味。总之，这家店的口味非常地道，是一家很值得推荐的小吃店。
+<!-- 2023-05-11 09:13:04 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 09:13:08 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 90, 'status': 'online', 'session_key': 'Gl69kOnkn73YLbe4n4/CLw=='}
+<-- 2023-05-11 09:13:12 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 09:13:21 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-11 09:13:24 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 09:13:25 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-11 09:13:28 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<!-- 2023-05-11 09:13:42 User Custom Data Non-exists --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+未找到用户自定义文件
+<-- 2023-05-11 09:13:53 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-11 09:15:35 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-11 09:15:44 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,传奇香辣烤鱼,经典麻辣烤鱼，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 09:15:50 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+今天去吃了一家烤鱼店，点了烤黑鱼、传奇香辣烤鱼和经典麻辣烤鱼。烤黑鱼很鲜美，烤得很透，入口时有一种嫩味，很棒。传奇香辣烤鱼麻辣味十足，吃得我直流汗。经典麻辣烤鱼的鱼肉很入味，一口接一口的完全停不下来。总之这家烤鱼店绝对是物美价廉，超级赞！
+<-- 2023-05-11 09:16:32 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,传奇香辣烤鱼,经典麻辣烤鱼,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 09:16:38 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+吃了一家新开的网红火锅店，点的烤鱼味道真心好啊！三种口味都尝了一下，传奇香辣烤鱼是我最爱，超级入味，完美的麻、辣、鲜、香的比例。烤黑鱼等菜品也很不错，特别喜欢里面的香料和调料，调味正常，一点都不过分。最特别的就是柠檬鸡爪了，酸酸甜甜有点儿辣，好吃到不行！环境舒适，服务态度也一流，超级推荐！
+<-- 2023-05-11 09:16:58 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,传奇香辣烤鱼,经典麻辣烤鱼,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 09:17:18 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+吃烤鱼啦！兴奋地走进某条街上的烤鱼店，口水直流。嗯呐，这个清新的店面让人瞬间觉得舒适了不少。点完菜后，眼前的烤鱼一上桌，就出了一股股红彤彤的香气！咕噜咕噜地咽口水，等不及要一嗑了！
+
+首先是烤黑鱼，鱼肉嫩得刚刚好，沾着那香辣的调料涮一下，味道益发不俗。接着是传奇香辣烤鱼，这可是大名鼎鼎的招牌菜，听说是烤鱼中的掌门人，蘸上雪白的大米饭，旁边还有清爽的黄瓜和萝卜，真心美味，完完全全的舌尖上的享受啊。
+
+经典麻辣烤鱼！微同机械响，下一位！老板微笑着递上来，吃货又来到了美食之旅的巅峰。据说这个麻辣烤鱼已经吸粉成瘾啦，嘿嘿，这一口下去，嗷嗷辣，六瓣鱼散出来狂欢的味道，接着又是爽口，又辣口，还有酸辣，尝了几口，还是不能决定哪一个口味好吃，还是全部最好！幸好旁边有柠檬鸡爪，继续种种的口感体验。
+
+吼吼，这个烤鱼店真是太给力了！绝对是异乎寻常的美食体验啊！
+<-- 2023-05-11 09:17:52 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-11 09:21:52 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 09:21:59 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 09:23:09 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 09:27:38 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 90, 'status': 'online', 'session_key': 'a/JoD//76R6LkrrGEa/t3Q=='}
+<-- 2023-05-11 09:28:30 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 09:28:33 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 90, 'status': 'online', 'session_key': 'JksE49UEEcZmTt3m8NCpbw=='}
+<-- 2023-05-11 10:03:26 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:03:36 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了羊肉串,经典麻辣烤鱼,烧椒皮蛋,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 10:03:45 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+吃了一顿！辣！烤！美味！
+
+先说羊肉串，味道正宗，烤得金黄，口感嚼劲十足！真是肥而不腻！
+
+经典麻辣烤鱼更是让我大呼过瘾！外脆内嫩，烤得很入味！加上麻辣特制酱汁，美味可口得不行！
+
+烧椒皮蛋是小菜之一，口感鲜辣，十分爽口！尤其是椒皮的味道令人难忘！
+
+鲜椒辣子鸡也不容错过！炸得香脆，吃起来火辣辣的，不过，越吃嘴巴就越爽！
+
+整体点评，值得再来吃一次！服务态度也不错，总体来说，是一次非常不错的体验！
+<-- 2023-05-11 10:04:41 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了羊肉串,经典麻辣烤鱼,烧椒皮蛋,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 10:04:49 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃了一顿巨好吃的，点了羊肉串、经典麻辣烤鱼、烧椒皮蛋和鲜椒辣子鸡，全都一级棒！羊肉串口感软嫩，味道鲜美；麻辣烤鱼非常入味，辣度刚好，肉质也很不错；烧椒皮蛋酥脆可口，搭配辣酱更是鲜美；鲜椒辣子鸡香麻辣辣的，让人垂涎欲滴。价格实惠，服务非常好，下次还要带朋友去尝尝！
+<-- 2023-05-11 10:05:55 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:06:02 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烧椒皮蛋,绝味茄子,经典麻辣烤鱼,传奇香辣烤鱼，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 10:06:17 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+吃完悉布美.名匠烤鱼，爱上了它家的点心和烤鱼！烧椒皮蛋是我最喜欢的点心，居然超级辣，不过我不怕，伴随着米饭吃下去后，满嘴都是辣味，简直过瘾！
+
+绝味茄子是我点的第二道菜，看上去普普通通的茄子，可是一口咬下去，却是又脆又香的口感，搭配上特别的调料，味道不要太好，最后，香辣的味道散发在嘴边，心情好得不行！
+
+最后两道烤鱼更是让我的食欲大开！我选择了经典麻辣烤鱼和传奇香辣烤鱼，当上桌的时候，香气扑鼻，烤鱼的味道异于其他，让我爱不释手！麻辣和香辣两种不同的口感，让我大开眼界，下次还要点！
+
+总之，这家餐馆的食物不仅美味而且价格亲民，给了我一个惊喜！而且环境也特别好，不管是和闺蜜馆儿玩，还是与久未见面的好友聚餐，来这个馆子完全没有问题！
+<-- 2023-05-11 10:09:37 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:09:39 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 10:09:53 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:10:01 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,绝味茄子,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 10:10:11 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+吼吼哇，今天吃到了一个超火的烤鱼店！酷炫的店面和氛围真的让我很享受。我点了传奇香辣烤鱼，绝味茄子和烧椒皮蛋，赞啊，真是一道比一道好吃！烤鱼外脆里嫩，特别是香辣味道真的很过瘾，口感非常的爽，绝味茄子又香又软，而且口感也很棒！烧椒皮蛋也很不错，皮蛋的香味和烧椒的辣味搭配的非常合拍。整体来讲我非常的满意，服务员也非常热情，让我有种“回家”的感觉。不过价格稍微有点小贵，但是吃的如此美味，还是值得的。强烈推荐这家店，推荐大家也去尝试！
+<-- 2023-05-11 10:10:37 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,绝味茄子,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 10:10:56 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃到了传说中的巨好吃的鱼啦！整个人瞬间被烤鱼的香气包裹着，想想就有点流口水。传奇香辣烤鱼跟顾客要求的辣度定制是真的重要啊，我让他们放辣椒段跟辣椒粉的辣度，咬下去鲜香的鱼味和辣椒的调和在口中，让人一边感受麻辣火辣的刺激，一边啜饮啤酒，真是过瘾！
+
+绝味茄子与烤鱼的味道风马牛不相及，清甜的茄子柔嫩口感和点缀在上面的葱花和辣椒，为酒足饭饱的胃加入了新的口感，满足了味蕾的期待。
+
+再说说烧椒皮蛋，嘴巴里光是说的口感就好爽，皮蛋外 layers 是一层又薄又酥的糖衣，吃进嘴里破开，优质的皮蛋硬糯的口感和爽脆的红辣椒，简直是绝妙的组合！
+
+总之想找个烤鱼店吃饭的小伙伴们，偷偷告诉你们，这个店真的是值得尝试的，不仅食材顶级，做法更是严格，营养健康！如果没有来过这家店，来肯定不后悔！
+<-- 2023-05-11 10:11:40 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 10:11:54 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 85, 'status': 'offline', 'session_key': 'OnruQVLBKea6Dh4bLB6Ccg=='}
+<!-- 2023-05-11 10:12:02 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 10:12:43 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-11 10:12:44 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 10:12:51 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:13:05 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,红糖糍粑,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 10:13:12 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去了一家烤鱼店，点了柠檬鸡爪，红糖糍粑和烧椒皮蛋。柠檬鸡爪口感有点酸爽，但还是很好吃的。红糖糍粑口感软糯，甜味十足，肯定是手工制作的。烧椒皮蛋也很不错，皮蛋的味道浓郁，配上烧椒，吃起来有点辣但不至于过分刺激。总体来说，这次用餐体验很不错，这家店的小吃都很有特色，值得一试。
+<-- 2023-05-11 10:13:28 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:13:36 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 10:13:38 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-11 10:14:05 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 84, 'status': 'online', 'session_key': 'i8kjRBn9Stx6DRyZRm9tAA=='}
+<-- 2023-05-11 10:14:14 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 10:26:38 User Logout -->
+user: 
+用户登出
+<-- 2023-05-11 10:26:40 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 10:26:40 User Login -->
+user: 
+用户登录
+<!-- 2023-05-11 10:27:06 User Custom Data Non-exists --!>
+user: 
+未找到用户自定义文件
+<!-- 2023-05-11 10:27:10 User Custom Data Non-exists --!>
+user: 
+未找到用户自定义文件
+<!-- 2023-05-11 10:27:19 User Custom Data Non-exists --!>
+user: 
+未找到用户自定义文件
+<-- 2023-05-11 10:27:26 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 10:53:05 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 10:53:23 User Logout -->
+user: 
+用户登出
+<-- 2023-05-11 10:53:24 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 10:53:30 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 10:54:35 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:05:16 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:05:31 User Command -->
+user: 
+用户命令生成
+
+<-- 2023-05-11 11:05:32 Response Command -->
+user: 
+回复生成命令
+I'm sorry, I'm not sure what you are asking for. Could you please provide me with more information?
+<-- 2023-05-11 11:06:00 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:06:14 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:06:48 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:07:32 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:52:21 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:56:01 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 11:56:42 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 12:25:52 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 12:26:26 User Login -->
+user: 
+用户登录
+<-- 2023-05-11 12:27:09 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 12:28:53 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-11 12:29:00 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 12:30:46 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-11 12:30:48 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-11 12:31:22 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-11 12:31:51 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-11 12:32:06 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-11 12:32:23 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,绝味茄子,干拌牛腱子,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 12:32:30 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+吃过了这家店的传奇香辣烤鱼，我觉得我都变成了一个辣鸡了！绝味茄子也是超好吃的，口感软糯，还有一点点香甜，真是一道让人停不下来的小菜呀！干拌牛腱子有点口感紧实，但是吃起来鲜美十足，加上辣椒和姜丝的点缀，真是美味到爆炸！还有柠檬鸡爪，味道很清新，有点儿酸酸甜甜的感觉，跟其他几道菜风味不同，但同样可口！总之，这家店的菜品质量超好，价位也不贵，特别推荐大家来试一试！
+<-- 2023-05-11 12:32:50 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-11 12:42:54 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-11 12:43:03 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,传奇香辣烤鱼,经典麻辣烤鱼,绝味茄子,烧椒皮蛋,鲜椒辣子鸡,红糖糍粑，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-11 12:43:12 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃了一家巨好吃的餐馆，点了烤黑鱼真的是超特别的，最赞的还是传奇香辣烤鱼和经典麻辣烤鱼啦，辣味超重，口感绝妙！再说说羊肉串吧，烤得恰到好处，好吃的没话说！绝味茄子很有特点，甜咸口感混合，烧椒皮蛋真的非常入味，酸辣味道令人回味无穷！最后说的是一道不起眼的红糖糍粑，表面涂上了厚厚的红糖浆，周围还有松脆的芝麻，一口下去感觉甜甜脆脆的，把人从舌尖到心坎都疼爱到了！总之，这个餐馆真是太好吃了，赞为五星级！
+<-- 2023-05-11 12:43:25 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-11 12:51:12 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-11 12:51:31 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,红糖糍粑,鲜椒辣子鸡,烧椒皮蛋,绝味茄子,干拌牛腱子，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-11 12:51:38 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+传奇香辣烤鱼真是惊艳到了我的味蕾呀，口感香辣，特别实在。红糖糍粑也很让人意外，口感软糯，跟传统会有点不同，但还是很好吃。鲜椒辣子鸡微辣微咸，很下饭。烧椒皮蛋味道跟我想象的不一样，不过还是挺香的。绝味茄子和干拌牛腱子都很好，特别是干拌牛腱子，口感Q弹，酱汁很让人回味。总体来说，这个餐馆的菜品还是很好的，值得一试。
+<-- 2023-05-11 12:52:09 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-11 12:52:13 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-11 12:52:19 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-11 12:52:26 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-11 12:52:26 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-11 12:52:49 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-11 12:53:29 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<!-- 2023-05-11 14:43:57 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 14:44:52 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<!-- 2023-05-11 14:44:56 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-11 14:45:45 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了羊肉串,烧椒皮蛋,红糖糍粑，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-11 14:45:51 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+吃了一顿非常美味的餐。点了三个小菜，一个是超好吃的羊肉串，用的是很实在的羊肉，串得也很紧实，焦香入口，咸鲜适宜；第二个是口感非常特别的烧椒皮蛋，香辣爽口，配上微微煮熟的皮蛋，很有弹性，非常下饭；还有一个是甜甜的红糖糍粑，软糯有嚼劲，香甜可口。总之，用餐环境很好，服务也很到位，关键的食物也非常符合口味，每个小菜都很有亮点。下次有机会一定会再来！！！
+<-- 2023-05-12 01:02:12 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-12 01:02:28 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 01:02:32 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去一个餐馆吃饭，点了柠檬鸡爪和鲜椒辣子鸡，哇塞，真的是太好吃了！柠檬鸡爪皮薄肉嫩，入口即化，咬下去汁水四溢。鲜椒辣子鸡，味道麻辣，香气扑鼻，我都快上瘾了！这家餐馆的菜做得太棒啦，让我想一试它的其他招牌菜。价钱也非常合理，服务还很好，老板还主动问我们需要什么帮助。等下次再去，我一定会带上我的朋友来一试！
+<-- 2023-05-12 01:02:47 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 01:02:51 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+点了两道小菜，先说柠檬鸡爪，味道还行，不是很辣，有点咸口，鸡爪子口感还算不错的。鲜椒辣子鸡嘛，挺好吃的，鸡肉不干不柴，鲜辣口感很不错。不过老实说，这家店的菜虽然不错，但是价钱有点小贵，算不上性价比很高的那种，不过呢，环境还算不错，个人感觉适合小聚一下。总体来说，还是可以尝试的，但是不一定非得去。
+<-- 2023-05-12 01:03:04 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 01:03:09 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天去吃了一家小店，点了柠檬鸡爪和鲜椒辣子鸡。点完后等了十分钟左右，菜就上桌啦！第一口柠檬鸡爪入口，辣的不行，嗷嗷好吃！柠檬味很重，吃起来很开胃，吃了一只小鸡爪就有点撑了。鲜椒辣子鸡的味道和口感也很好，比较辣但又不至于过火，偏重于麻辣口味的小伙伴可能会觉得不太够辣。店里的环境也很不错，很舒服，服务员也很热情，总之我觉得这家店很不错！
+<-- 2023-05-12 01:03:16 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,鲜椒辣子鸡,红糖糍粑，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 01:03:21 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃了一家饭店，我点了柠檬鸡爪，鲜椒辣子鸡和红糖糍粑，简直是让人垂涎欲滴啊！柠檬鸡爪酸爽可口，入口即化，让我不禁吮吸手指，再来一份就好了。鲜椒辣子鸡辣度适中，而且那个麻感让我一点也不想停下口中的狂欢。红糖糍粑更是那个麻和甜的完美融合，甜甜的人间美味。整个用餐体验完美无缺，数不尽的美食和大口宣泄的欢笑，店家也非常的热情。总之，吃得真是爽到飞起，下次一定要再来！
+<-- 2023-05-12 01:03:33 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了柠檬鸡爪,鲜椒辣子鸡,红糖糍粑,传奇香辣烤鱼，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 01:03:39 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+兄弟们，今天吃了一家烤鱼店，点了柠檬鸡爪，鲜椒辣子鸡，红糖糍粑，传奇香辣烤鱼。先说柠檬鸡爪，口感鲜香，非常入味，吃到最后居然还有柠檬味，太有逼格了。鲜椒辣子鸡属于我最喜欢吃的口味，小辣还带点甜味，一点都不腻，简直是高颜值的美女。红糖糍粑属于那种保留了传统的好吃，还有点细腻的口感，很让人怀念小时候的味道。最后这道传奇香辣烤鱼简直是人间美味，非常鲜嫩，味道浓郁，香气扑鼻，正中我口味。总之，这家餐馆的菜品非常不错，性价比也高，要是还没吃过的兄弟们，千万不要错过。
+<-- 2023-05-12 01:04:50 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 77, 'status': 'online', 'session_key': 'npvtPDjouWGIc+H3XP4cWA=='}
+<-- 2023-05-12 01:04:52 Request UserInfo -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求用户数据
+{'openid': 'oPZOF5DvSQP3j8qAubLNyYTyKaB4', 'nickName': 'Empty', 'plan': 'standard', 'token': 77, 'status': 'online', 'session_key': 'npvtPDjouWGIc+H3XP4cWA=='}
+<-- 2023-05-12 01:04:55 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-12 01:05:05 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-12 01:05:18 User Raise Chat -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求聊天回复
+/user_status
+<-- 2023-05-12 01:06:43 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-12 02:10:42 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-12 02:11:13 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 02:11:23 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 02:11:25 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,传奇香辣烤鱼,羊肉串,烧椒皮蛋,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-12 02:11:32 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+今天吃了一家名扬天下的烤鱼店，点了黑鱼、香辣烤鱼、羊肉串、烧椒皮蛋、柠檬鸡爪。黑鱼口感特别好，肉质细嫩，配料也很新鲜。香辣烤鱼辣度十足，很提神醒脑，不过够辣。羊肉串以前吃过的最好吃的，细嫩多汁！烧椒皮蛋还是头一回吃，味道不错洛阳牌泡椒不比较！柠檬鸡爪也不错，鸡爪是一道永远逃不过的马蜂！总体来说，这家烤鱼店不愧是名匠，味道和服务都非常好！
+<-- 2023-05-12 02:11:44 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 02:11:48 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 02:11:57 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 02:13:50 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 02:14:25 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了经典麻辣烤鱼,柠檬鸡爪,绝味茄子,烤黑鱼,羊肉串，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-12 02:14:31 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+今天去吃烤鱼，点了经典麻辣烤鱼，柠檬鸡爪，绝味茄子，烤黑鱼，羊肉串。哇！太好吃了！麻辣烤鱼口感绝佳，嘴里直冒火辣辣的麻辣味，配上肉质鲜嫩多汁的黑鱼，真心是棒极了！柠檬鸡爪酸酸甜甜的味道，绝味茄子滑嫩香甜，羊肉串炭火烤制，带着淡淡的香气，口感非常满意！总之，这次用餐体验非常不错，烤鱼店的味道实在是太棒了！
+<-- 2023-05-12 02:14:56 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 04:04:57 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-12 04:05:13 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,烧椒皮蛋,红糖糍粑，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-12 04:05:18 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+点了传奇香辣烤鱼和烧椒皮蛋。那个鱼哦，辣的跟烈火似的，真是下饭啊！不过吃到最后，还是得喝口冰啤酒才行。烧椒皮蛋也很好吃，很鲜辣，挺下饭。但是最让我惊艳的是红糖糍粑，甜甜的，口感还很Q弹，比涂了酱油的糯米饭好吃太多了！总之，这家店真是吃货们的福音啊！
+<-- 2023-05-12 04:05:45 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-12 05:08:12 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-12 05:08:23 User Raise Chat -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求聊天回复
+/user_status
+<!-- 2023-05-12 05:10:05 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<!-- 2023-05-12 05:10:15 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<!-- 2023-05-12 05:10:19 User Custom Data Non-exists --!>
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+未找到用户自定义文件
+<-- 2023-05-12 05:10:21 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-12 06:03:00 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-12 06:03:37 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了红糖糍粑,鲜椒辣子鸡,传奇香辣烤鱼,绝味茄子，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 06:03:45 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+吃货粉们，听我一言！今天吾去一家叫“名匠烤鱼”的餐馆尝鲜，被一碗红糖糍粑惊艳到了，香甜软糯，口感high翻天！随后上来的鲜椒辣子鸡让了我这个辣控一波满足，嘴辣礼炮点燃！更值得一提的是传奇香辣烤鱼，隔着桌子咕噜咕噜的声音让我胃口大开。一口咬下，满嘴的鲜香辣感滋味无穷，实在是太好吃了，让我直呼过瘾。最后，那绝味茄子太惹我了，香嫩可口，让我忍不住唠叨上好几遍。总之吃货们，这个餐馆真的是一家能让我大呼过瘾的好吃货天堂，记得去的时候点一份绝味茄子，不然你就out啦！
+<-- 2023-05-12 06:03:56 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 06:09:23 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 06:12:38 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 06:12:39 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 06:12:39 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 07:57:38 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-12 07:58:02 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 07:58:04 User Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登录
+<-- 2023-05-12 07:58:34 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,烧椒皮蛋,鲜椒辣子鸡,红糖糍粑,干拌牛腱子，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-12 07:58:45 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+今天去吃了一家小店，点了非常有名的香辣烤鱼、烧椒皮蛋和鲜椒辣子鸡，以及红糖糍粑和干拌牛腱子。简直是让我舌头上的味蕾完全爆炸！首先是那个香辣烤鱼，简直是麻辣的一秒钟不停歇！但味道非常棒，让我非常满足。烧椒皮蛋的做法很独特，皮蛋与烧椒搭配，口感爽脆，超级好吃！鲜椒辣子鸡肉质厚实，辣度适中，口感非常好，一旁的米饭配起来简直完美！红糖糍粑与干拌牛腱子也是送到我的味蕾的美味佳肴，非常好吃。总的来说，非常开心能够在这家小店享受到了这么多的美食。虽然店面小小的，但食物的品质超级棒，强烈推荐给大家！
+<-- 2023-05-12 07:59:47 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 08:23:37 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-12 08:23:57 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,绝味茄子，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-12 08:24:07 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+今天中午我去了一家很火的烤鱼店，点了烤黑鱼、羊肉串和绝味茄子。先说说烤黑鱼，刚一上桌就被惊艳到了，颜值很高！烤的非常酥脆，口感非常好，配上特制的酱料简直是一绝！羊肉串也是very 香！烤的非常熟，但是肉质却没有一点干巴巴的感觉，真是又香又嫩！最后是绝味茄子，看上去比较普通，但吃起来真是美味！茄子很入味，烤得刚刚好，口感非常软糯，配上酱汁，再加上大蒜，真的让我一口气吃了好几个！总之，这家烤鱼店的菜真的是超级好吃，下次一定还要再来！
+<-- 2023-05-12 08:24:26 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-12 08:24:53 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<!-- 2023-05-12 08:24:57 User Custom Data Non-exists --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+未找到用户自定义文件
+<-- 2023-05-12 08:25:40 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你是一名专业的公司职员，职位是监测工程师，需要写一份工作日报，你的工作内容是基坑监测，客户交流，现场测量。请写一份300字的今日工作报告，要有工作内容、总结和下一阶段工作计划，用列表形式展现。
+<-- 2023-05-12 08:25:53 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+今日工作报告
+
+工作内容：
+1. 基坑监测：对建筑工地进行日常巡检，记录沉降情况，采集土壤样本，检测水平、竖向位移，编写监测报告；
+2. 客户交流：与客户进行日常沟通，在工地现场解答客户提出的问题，了解客户需求，协调解决工地问题；
+3. 现场测量：使用测量仪器进行现场测量，记录数据，整理测量成果，编写测量报告。
+
+总结：
+今天的工作任务完成顺利，基坑监测记录了较为详细的数据，客户与我们的沟通交流进一步顺畅，现场测量数据的准确性得到了客户的认可和对我们服务的信任。
+
+下一阶段工作计划:
+1. 继续增强基坑监测数据的详尽程度，提高监测报告的准确性和完整性；
+2. 与客户保持沟通渠道的畅通，及时协调问题和为客户提供更好的服务；
+3. 深入了解测量仪器使用技巧，不断提高现场测量的准确性和读数精度。
+
+报告人：XXX
+日期：2021年X月X日
+<-- 2023-05-12 08:26:33 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-12 13:45:06 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-12 13:45:16 User Raise Chat -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求聊天回复
+/user_status
+<-- 2023-05-12 13:45:22 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-12 14:28:03 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-12 14:28:50 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,烧椒皮蛋,红糖糍粑,干拌牛腱子，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-12 14:28:57 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+今天去了个新开的餐馆，烤黑鱼特别好吃，肉质很嫩，烤得很入味，一点也不腥。羊肉串也很不错，烤得有点焦香，夹杂着嫩糯的肉质，特别好吃。烧椒皮蛋口感很特别，皮蛋入味，搭配上一些辣椒，味道真的很棒。红糖糍粑看起来比较普通，但是一口咬下去，软硬适中，甜而不腻，真的很好吃。干拌牛腱子是最后来的，有点辣，牛肉也很嫩，非常下饭。整个就是超值的一顿，每个菜都超好吃，真的很值得推荐。
+<-- 2023-05-12 14:29:19 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-12 14:57:10 User Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登录
+<-- 2023-05-13 05:07:19 User Request to Login -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户请求登录
+<-- 2023-05-13 05:07:47 User Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了羊肉串,传奇香辣烤鱼,绝味茄子,红糖糍粑,干拌牛腱子,鲜椒辣子鸡，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-13 05:07:55 Response Command -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+回复生成命令
+今天去吃烤鱼啦！点了羊肉串、烤鱼、茄子、糯米糍和牛腱子，还有像挑战自己的麻辣鸡！味道真的太好啦！牛腱子非常嫩而且肉质也很棒，辣子鸡里面还加了一些花椒，一口下去嗷嗷辣！还有那个烤鱼，烤的超级入味，个头也很大，吃起来感受到了烤鱼的滋味！糯米糍粑口感非常软糯，糖也不会太甜，超好吃！来到这家小店真的是一个非常不错的选择，吃上一口自带满足感，下次再来一定要再品尝一下！
+<-- 2023-05-13 05:08:46 User Logout -->
+user: oPZOF5F0xmZ6iZ1_-2muI73bdqe0
+用户登出
+<-- 2023-05-13 07:45:00 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-13 07:45:14 User Raise Chat -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求聊天回复
+/user_status
+<-- 2023-05-13 07:45:38 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-14 03:12:34 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-14 03:12:36 Request UserInfo -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求用户数据
+{'openid': 'oPZOF5PdbY4BOY9YqjrkNnjcarYQ', 'nickName': 'unknow', 'plan': 'standard', 'token': 4, 'status': 'online', 'session_key': 'MCPBCTVllrsZY12ZAHv5uQ=='}
+<-- 2023-05-14 03:12:51 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-14 03:16:13 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-14 03:16:50 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-14 03:17:09 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-14 03:17:29 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,烧椒皮蛋,羊肉串，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-14 03:17:36 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+吃了一餐真是魔性的美食体验啊！点的传奇香辣烤鱼太辣了，简直是辣的鼻涕眼泪都流出来了，但是口感真的不错！还点了烧椒皮蛋，茶叶蛋泡在辣椒里，简直是一绝，所以得给它超高评价！而且羊肉串绝对是我的最爱之一，特别是烤得好，嫩又香！店里气氛也很不错，超级适合和朋友们来聊天喝酒！总之，这家店的菜品做的好吃又不贵，真的是要强烈推荐给大家！
+<-- 2023-05-14 03:17:57 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+
+<-- 2023-05-14 03:17:57 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+I'm sorry, I cannot answer your question as there is none provided. Please provide more context or information so I can assist you better.
+<!-- 2023-05-14 03:18:01 User Custom Data Non-exists --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+未找到用户自定义文件
+<-- 2023-05-14 03:18:04 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-14 11:44:15 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-14 11:44:26 User Raise Chat -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求聊天回复
+/user_status
+<-- 2023-05-14 11:44:38 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-15 04:33:08 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-15 04:33:20 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了经典麻辣烤鱼,鲜椒辣子鸡,干拌牛腱子,柠檬鸡爪，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-15 04:33:28 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天本蒟蒻来到了一家传说中非常给力的烤鱼店。不得不说，这家店的烤鱼真是带劲到不行。点了经典麻辣的口味，辣的我口舌生疮。不过，还是意犹未尽。搞了一只鲜椒辣子鸡，味道也是非常惊艳。小小的辣椒一写进嘴巴，立刻唤起了我味蕾的食欲。我还点了一道干拌牛腱子，肉嫩入口，细嚼慢咽，舌尖尝到了肉质的鲜美。最后，来一份柠檬鸡爪，口感稍微有点酸，但是很开胃，好吃到爆炸。这家店的服务员们也热情周到，性价比真是高，真心推荐给大家。
+<-- 2023-05-15 04:33:39 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-15 11:11:59 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-15 11:12:15 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<-- 2023-05-15 11:12:22 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+我去吃了一家名为“名匠烤鱼”的餐馆，口感真是太棒了！我点了烤黑鱼，肉质鲜嫩，外焦里嫩，咬下去还会有一股淡淡的香味。羊肉串也是我的最爱，炭火烤得很入味，配上辣椒粉和孜然粉，太过瘾了！最令我惊喜的是烧椒皮蛋，口感够劲道，没有腥味，椒香四溢，确实是又辣又爽。这家店的装修也很有情调，气氛很好，空气也流通，服务也很到位。总的来说，这次用餐体验非常不错，感觉物超所值。下次再来这里必定会再点这几道菜，真的是太赞了！
+<-- 2023-05-15 11:12:34 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:12:35 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:12:44 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:13:15 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:13:17 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:13:34 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-15 11:13:40 User Request to Login -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户请求登录
+<-- 2023-05-15 11:13:47 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-15 11:13:57 User Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了传奇香辣烤鱼,红糖糍粑,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求300字左右。
+<-- 2023-05-15 11:14:05 Response Command -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+回复生成命令
+今天吃了一家烤鱼店，点了传奇香辣烤鱼、红糖糍粑和烧椒皮蛋。首先，烤鱼真的很好吃，特别是那种够辣够香的味道，超级能刺激我的味蕾。其次，红糖糍粑也非常好吃，糯糯的口感和甜甜的味道一起爆发，简直就是完美的减压小甜品。最后，烧椒皮蛋也是很好吃的一道小菜，虽然我平时不爱吃皮蛋，但是这个搭配椒麻汁味道刚好，不厌腻。总之，我很喜欢这家烤鱼店，下次还想再去尝试其他的菜品，毕竟这家店每道菜都好吃，真的是太良心了！
+<-- 2023-05-15 11:14:20 User Logout -->
+user: oPZOF5DvSQP3j8qAubLNyYTyKaB4
+用户登出
+<-- 2023-05-15 11:14:42 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:15:22 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:15:26 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,烧椒皮蛋，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求100字左右。
+<-- 2023-05-15 11:15:31 Response Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+回复生成命令
+今天吃了一家烤鱼店的黑鱼，羊肉串和烧椒皮蛋，味道特别棒！羊肉串特别入味，烤得外焦里嫩，简直是美味的极致！皮蛋的味道也很棒，辣椒和酱油的搭配非常到位，口感十足。烤鱼的黑鱼很鲜美，好吃到让人忍不住舔手指！总之，这家店的菜品值得一试。服务也非常周到，店家会根据客人的口味进行调整，让人感受到贴心的服务。下次再来一定会继续点这几道菜！
+<-- 2023-05-15 11:15:41 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:17:16 User Request to Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求登录
+<-- 2023-05-15 11:17:21 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:18:01 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:18:40 User Command -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户命令生成
+你今天到一个叫悉布美.名匠烤鱼的餐馆用餐，你点了烤黑鱼,羊肉串,红糖糍粑，请向你的群友分享你的体验。要求文风自然，语气自然，不要有段落结构，多用中国网络用语，直接进入主题，不要提及店名，开头和每句尾不要有语气词，要求200字左右。
+<!-- 2023-05-15 11:18:40 User Token Used Up --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+会话次数已用尽
+<-- 2023-05-15 11:18:45 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:19:14 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:19:18 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:19:49 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:19:54 Request UserInfo -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求用户数据
+{'openid': 'oPZOF5PdbY4BOY9YqjrkNnjcarYQ', 'nickName': 'unknow', 'plan': 'standard', 'token': 0, 'status': 'online', 'session_key': 'MaPuxcOr4X3OgDho1t3Rpw=='}
+<-- 2023-05-15 11:20:02 User Raise Chat -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求聊天回复
+openid
+<!-- 2023-05-15 11:20:02 User Token Used Up --!>
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+会话次数已用尽
+<-- 2023-05-15 11:20:08 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
+<-- 2023-05-15 11:20:34 User Login -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登录
+<-- 2023-05-15 11:20:48 User Raise Chat -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户请求聊天回复
+/openid
+<-- 2023-05-15 11:21:02 User Logout -->
+user: oPZOF5PdbY4BOY9YqjrkNnjcarYQ
+用户登出
