@@ -34,12 +34,13 @@ class Client(DataObject):
             'grant_type': grant_type,
         })
 
-        if response.status_code == 200:
-            info = json.loads(response.text)
-            print(response.text)
+        info = json.loads(response.text)
+        if response.status_code == 200 and "openid" in info:
+            # print(response.text)
             openid = info["openid"]
             # s_key = info["session_key"]
-            cls(openid=openid).login()
+            client = cls(openid=openid).login()
+            Log(AH.USER_REQUEST_LOGIN, client.ID, code, args=info)
             return info
         else:
             Log.raise_error(EH.USER_LOGIN_FAILED, code, response.text)
